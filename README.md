@@ -1,8 +1,3 @@
-# React + Vite
+Новый большой проект. Было  очень увлекательно над ним работать, узнал по лучше про React Router, как работать с его стейтами, Redux Toolkit и Thunk попробовал, не простая штука надо сказать)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Для просмотра:https://fast-react-pizza-two-rosy.vercel.app/
